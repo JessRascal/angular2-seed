@@ -34,3 +34,7 @@ node_modules
 
 # Optional Typings installation
 typings
+
+# js and js.map files
+app/**/*.js
+app/**/*.js.map
